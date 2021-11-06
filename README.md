@@ -1,6 +1,6 @@
 # Solana Research Lab
 
-A limited set of (999)  NFTs, those who mint this will aquire far advantage and understanding on nfts over those who miss it
+A limited set of (999)  NFTs, those who mint this will acquire far advantage and understanding on nfts over those who miss it
 
 ### Treasure Hunt?
 
@@ -11,7 +11,7 @@ I will lead you to gather all the information that you need to mint the SRL. For
 
 
 
-### Before the mint you are going to aquire:
+### Before the mint you are going to acquire:
 
 - Ability to use some basic dev tools
 - Skills to mint any project from your own machine and be safe from malicious or overloaded sites.
