@@ -11,7 +11,7 @@ I will lead you to gather all the information that you need to mint the SRL. For
 
 
 
-### Before the min you are going to aquire:
+### Before the mint you are going to aquire:
 
 - Ability to use some basic dev tools
 - Skills to mint any project from your own machine and be safe from malicious or overloaded sites.
