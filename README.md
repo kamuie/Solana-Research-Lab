@@ -56,7 +56,7 @@ follow this 3 tutorials above and you will be 100% ready to the final steps and 
 >tba
 
 - price?
-> between 0.25- 0.5 TBD
+>  0.5 sol
 
 - official mint site?
 > you are going to mint it from your own machine, no site required ;)
