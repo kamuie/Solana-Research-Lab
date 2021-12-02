@@ -1,6 +1,6 @@
 # Solana Research Lab
 
-A limited set of (999)  NFTs, those who mint this will acquire far advantage and understanding on nfts over those who miss it
+A limited set of (355)[17 for treasury, 333 public, 5 auction]  NFTs, those who mint this will acquire far advantage and understanding on nfts over those who miss it
 
 ### Treasure Hunt?
 
@@ -53,10 +53,10 @@ follow this 3 tutorials above and you will be 100% ready to the final steps and 
 #### faq
 
 - when drop?
->tba
+> 2 Dec 2021 17:00 UTC
 
 - price?
->  0.5 sol
+>  1 sol
 
 - official mint site?
 > you are going to mint it from your own machine, no site required ;)
