@@ -26,7 +26,7 @@ I will lead you to gather all the information that you need to mint the SRL. For
 
 - Drop the collection
 - Add it to a market place
-- Create the SRL bot to bind github account with your SRL holder wallet
+- Create the SRL bot to bind DISCORD account with your SRL holder wallet, in the future GITHUB also.
 - Create a Github private project that SRL holders will be able to access to use as they will (including the bot and any many other project that i want to bring up, example: a tool to find official nfts on solsea before they are verified, rarity sniper tool for any nft project before it releases, **tool to check nft traits before they are minted** and more)
 
 ## Possible Roadmap addons
